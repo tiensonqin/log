@@ -5,5 +5,8 @@
 :done: 1605558769406
 :END:
 
-** Tested editing from Emacs!
-It should be possible to edit these as more or less regular Org files.
+** DONE Tested editing from Emacs!
+:PROPERTIES:
+:done: 1605559317227
+:END:
+It should be possible to edit these as more or less regular Org files. (yep!)
