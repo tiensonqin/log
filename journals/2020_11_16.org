@@ -1,0 +1,7 @@
+#+TITLE: Nov 16th, 2020
+
+** DONE Created a Logseq installation on the exp2exp Organization :joe:
+:PROPERTIES:
+:done: 1605558769406
+:END:
+**
