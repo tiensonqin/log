@@ -4,3 +4,4 @@
 ** I'm thinking about importing my notes from the "grant development" Org Roam so that these can seed the network. I suppose I'll try that now!  I was able to bring in [[Grants Index]] via Git commit and that's now integrated here.
 ** Got the other pages integrated too. Linking has to be `[[Like this]]` not `[[file:like_this.org][Like this]]` to work, and it seems like links should also be inside the high-level bullet points not free text in order to show up in the graph. (Oh, and their parser doesn't seem to DTRT on this line.)
 ** Next step is to try and break them down logically some more (actual work not just technical plumbing!)
+** Oh, noticed that the linking issue above creates an incompatibility with Org Roam, so I commented about that here: https://github.com/logseq/logseq/issues/672 — the maintainer says it's likely to be fixed this week or next.  I also pointed out that I'd like to get involved in future work on Logseq!
