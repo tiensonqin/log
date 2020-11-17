@@ -1,0 +1,12 @@
+#+title: Index
+
+As an overall objective, it would be good to get at least something
+submitted within the first quarter of my start in the job!
+
+- [[file:best_of.org][Best Of]]
+- [[file:grant_ideas.org][Grant Ideas]] coming from a discussion with Kevin Maynard
+- [[file:20200905131027-information_extraction_from_so_q_a_items.org][Information extraction from SO Q&A items]] Some brainstorm things with the Hyperreal Enterprises crew
+- [[file:funding_agencies.org][Funding Agencies]]
+- [[file:specific_funding_opportunities.org][Specific Funding Opportunities]]
+- [[file:further_ideas.org][Further ideas]]
+- [[file:professional_network.org][Professional Network]]
