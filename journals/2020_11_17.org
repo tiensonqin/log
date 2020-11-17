@@ -1,3 +1,4 @@
 #+TITLE: Nov 17th, 2020
 
-** 
+** It should now be the case that everyone in the [[https://github.com/exp2exp][Exp2Exp]] org on Github can edit pages here.
+** I'm thinking about importing my notes from the "grant development" Org Roam so that these can seed the network. I suppose I'll try that now!
