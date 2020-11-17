@@ -1,0 +1,6 @@
+#+title: Specific Funding Opportunities
+
+Within the [[file:funding_agencies.org][Funding Agencies]] there are going to be some specific
+opportunities that I could apply for (sometimes as PI, sometimes not).
+
+- [[https://www.ukri.org/opportunity/epsrc-mathematical-sciences-small-grants-scheme/][EPSRC Mathematical Sciences Small Grants Scheme]] looks good

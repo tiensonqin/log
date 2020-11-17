@@ -1,0 +1,42 @@
+#+title: Grant Ideas
+
+MRC
+BBSRC
+*EPSRC*
+Leverhulme
+Nuffield
+Patient pathways
+
+- Cf. Areti Manataki
+- Healthcare data safe havens: towards a logical architecture and experiment automation etc.
+- A workflow-driven formal methods approach to the generation of structured checklists for intrahospital patient transfers
+
+E.g., Diabetes: too much sugar (bugs love it, etc.)
+
+*Use a design patterns approach?*
+
+E.g. respiratory case, in case where the severe asthmatics weren’t being treated properly WERE ALREADY IN HOSPITAL.  “AI for supporting early detection in heart...”
+
+Dealing with people + machines (WRT Templeton); “social machine”
+
+Hiring people like Jintao or Dev.
+
+3 months project in health?
+
+E.g., phone records held by the police — rape allegation has come in — need to search the records to see where this came up?  
+
+Transdisciplinary collaboration: risk whereby people have different languages
+
+‘Lloyds’ Register Foundation
+All about safety
+
+Maybe bring in Zaid Hassan for a “Social Lab” around AI?
+
+NSF/Northwestern grants
+Social Behaviour and Economic (collaborative research w/ people in the 2 areas… pretty open, speak w/ people at Northwestern, talk w/ Selin)
+Look under ESRC opportunities
+What previous work (e.g., people getting scientists talking with each other)
+A knowledge management system could help assemble these things in a rational way, reducing them to a set of; maybe Ari can help w/ Documentum, Filenet/Box content management systems… can we extract into something else.
+LearnerShape: how do we come up with a good metric?
+There’s a need from 30 odd HR departments? (Can I observe on Friday.)
+
