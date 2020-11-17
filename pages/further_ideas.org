@@ -8,4 +8,3 @@
 - Do something on “pattern jamming” together with CICOlab/OGM
 - Work on a technical package together with OGM
 - Something related to Arxana?
-** [[PlanetMath Previews]]
