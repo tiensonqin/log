@@ -2,4 +2,5 @@
 
 ** I spent more time than would really be necessary messing with OGM today and then decided to leave their email list. I think that's progress.
 ** What else could I quit? Twitter? Could I unsubscribe from some mailing lists? Or just delete my whole Gmail account? (That would probably have the unfortunate side effect of deleting my Google Voice account...)
-** Maybe this now inserts file links?
+** Maybe this now inserts file links? [[file:../pages/Grants_Index.org][Grant Index]] — Yes it looks like it does.
+**
