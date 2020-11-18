@@ -3,7 +3,7 @@ As an overall objective, it would be good to get at least something
 submitted within the first quarter of my start in the job!
 ** [[file:./best_of.org][Best Of]]
 * [[file:./grant_ideas.org][Grant Ideas]] coming from a discussion with Kevin Maynard
-* [[Information extraction from SO Q&A items]] Some brainstorm things with the Hyperreal Enterprises crew
+* [[file:./hel_brainstorm.org][Information extraction from SO Q&A items]] Some brainstorm things with the Hyperreal Enterprises crew
 * [[Funding Agencies]]
 * [[Specific Funding Opportunities]]
 * [[Further ideas]]
