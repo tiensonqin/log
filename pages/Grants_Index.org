@@ -7,5 +7,5 @@ submitted within the first quarter of my start in the job!
 * [[file:./funding_agencies.org][Funding Agencies]]
 * [[file:./specific_funding_opportunities.org][Specific Funding Opportunities]]
 * [[file:./further_ideas.org][Further ideas]]
-* [[Professional Network]]
+* [[file:./professional_network.org][Professional Network]]
 *
