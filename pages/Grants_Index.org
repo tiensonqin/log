@@ -5,7 +5,7 @@ submitted within the first quarter of my start in the job!
 * [[file:./grant_ideas.org][Grant Ideas]] coming from a discussion with Kevin Maynard
 * [[file:./hel_brainstorm.org][Information extraction from SO Q&A items]] Some brainstorm things with the Hyperreal Enterprises crew
 * [[file:./funding_agencies.org][Funding Agencies]]
-* [[Specific Funding Opportunities]]
+* [[file:./specific_funding_opportunities.org][Specific Funding Opportunities]]
 * [[Further ideas]]
 * [[Professional Network]]
 *
