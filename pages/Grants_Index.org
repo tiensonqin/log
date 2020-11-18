@@ -6,6 +6,6 @@ submitted within the first quarter of my start in the job!
 * [[file:./hel_brainstorm.org][Information extraction from SO Q&A items]] Some brainstorm things with the Hyperreal Enterprises crew
 * [[file:./funding_agencies.org][Funding Agencies]]
 * [[file:./specific_funding_opportunities.org][Specific Funding Opportunities]]
-* [[Further ideas]]
+* [[file:./further_ideas.org][Further ideas]]
 * [[Professional Network]]
 *
