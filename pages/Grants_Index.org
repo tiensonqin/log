@@ -1,7 +1,7 @@
 #+title: Grant Index
 As an overall objective, it would be good to get at least something
 submitted within the first quarter of my start in the job!
-** [[Best Of]] 
+** [[file:./best_of.org][Best Of]]
 * [[Grant Ideas]] coming from a discussion with Kevin Maynard
 * [[Information extraction from SO Q&A items]] Some brainstorm things with the Hyperreal Enterprises crew
 * [[Funding Agencies]]
