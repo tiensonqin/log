@@ -5,6 +5,7 @@ BBSRC
 *EPSRC*
 Leverhulme
 Nuffield
+‘Lloyds’ Register Foundation
 ** Patient pathways
 
 - Cf. Areti Manataki
@@ -25,7 +26,6 @@ E.g., phone records held by the police — rape allegation has come in — need 
 ** Transdisciplinary collaboration :expertise:
 risk whereby people have different languages
 
-‘Lloyds’ Register Foundation
 All about safety
 
 Maybe bring in Zaid Hassan for a “Social Lab” around AI?
