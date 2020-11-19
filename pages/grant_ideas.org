@@ -15,7 +15,8 @@ E.g., Diabetes: too much sugar (bugs love it, etc.)
 ** *Use a design patterns approach?*
 
 E.g. respiratory case, in case where the severe asthmatics weren’t being treated properly WERE ALREADY IN HOSPITAL.  “AI for supporting early detection in heart...”
-** My expertise: Dealing with people + machines (WRT Templeton); “social machine”
+** Social machines :expertise:
+Dealing with people + machines (WRT Templeton); “social machine”
 ** Potential employees
 Hiring people like Jintao or Dev.
 To work on a 3 months project in health?
