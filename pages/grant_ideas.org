@@ -1,6 +1,5 @@
 #+title: Grant Ideas
-
-MRC
+** MRC
 BBSRC
 *EPSRC*
 Leverhulme
@@ -39,4 +38,3 @@ What previous work (e.g., people getting scientists talking with each other)
 A knowledge management system could help assemble these things in a rational way, reducing them to a set of; maybe Ari can help w/ Documentum, Filenet/Box content management systems… can we extract into something else.
 LearnerShape: how do we come up with a good metric?
 There’s a need from 30 odd HR departments? (Can I observe on Friday.)
-
