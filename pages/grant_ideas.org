@@ -15,8 +15,7 @@ E.g., Diabetes: too much sugar (bugs love it, etc.)
 ** *Use a design patterns approach?*
 
 E.g. respiratory case, in case where the severe asthmatics weren’t being treated properly WERE ALREADY IN HOSPITAL.  “AI for supporting early detection in heart...”
-
-Dealing with people + machines (WRT Templeton); “social machine”
+** Dealing with people + machines (WRT Templeton); “social machine”
 
 Hiring people like Jintao or Dev.
 
