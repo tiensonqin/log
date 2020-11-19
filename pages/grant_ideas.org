@@ -1,10 +1,11 @@
 #+title: Grant Ideas
-** MRC
+** Agencies
+MRC
 BBSRC
 *EPSRC*
 Leverhulme
 Nuffield
-Patient pathways
+** Patient pathways
 
 - Cf. Areti Manataki
 - Healthcare data safe havens: towards a logical architecture and experiment automation etc.
